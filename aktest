@@ -1,2 +1,7 @@
 ak="xiaofei123456cqcn"
 sk="dffkhhsssll"
+data=
+{
+  "ACCESS_KEY_ID": "AKIAEXAMPLE123456",
+  "SECRET_ACCESS_KEY": "xyz1234567890abcdef"
+}
